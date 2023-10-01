@@ -1,0 +1,18 @@
+h1 , h2  {
+    color: darkred;
+    background-color: rgb(220, 208, 193);
+  }
+  body{
+    background-color: black;
+    padding: 1rem;
+  }
+  .dim {
+    color: rgb(33, 4, 4);
+    padding: 1rem;
+  }
+  .mid {
+    padding: 1rem;
+    margin: 1%;
+    border-radius: 3%;
+    
+  }
